@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.muntaha.cv.base",
+    "sha256_cert_fingerprints":
+    ["2C:3D:11:3C:35:19:5B:F8:97:C4:CF:24:B7:9C:13:35:88:3E:F7:73:53:38:89:B4:5A:AD:7B:74:5E:E6:23:36"]
+  }
+}]
